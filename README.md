@@ -31,7 +31,8 @@ Having strong C programming skills allows security professionals to identify and
 This repository contains 25 C projects covering both fundamental and advanced concepts.
 
 **1. Rock Paper Scissors** – A simple game where the computer makes a random choice and the user selects their move.
-2. ...
+
+**2.** ...
 
 ## 🚀 Purpose of This Repository
 The goal of C-Mastery is to help you develop a deep understanding of C through practical projects and challenges. Whether you are a beginner learning C or an aspiring security researcher exploring memory exploitation, this repository will help you grow your skills.
