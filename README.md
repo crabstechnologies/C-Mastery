@@ -30,7 +30,7 @@ Having strong C programming skills allows security professionals to identify and
 ## 📂 Project List
 This repository contains 25 C projects covering both fundamental and advanced concepts.
 
-**1. Rock Paper Scissors** – A simple game where the computer makes a random choice and the user selects their move.<
+**1. Rock Paper Scissors** – A simple game where the computer makes a random choice and the user selects their move.
 https://www.youtube.com/watch?v=c7-CkNzheSw&list=PLg124zdMYc-J0ve1sy1QghogtGaNBUMfk
 
 **2.** ...
