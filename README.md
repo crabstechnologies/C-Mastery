@@ -33,7 +33,8 @@ This repository contains 25 C projects covering both fundamental and advanced co
 **1. Rock Paper Scissors** – A simple game where the computer makes a random choice and the user selects their move.
 https://www.youtube.com/watch?v=c7-CkNzheSw&list=PLg124zdMYc-J0ve1sy1QghogtGaNBUMfk
 
-**2.** ...
+**2. Hangman Game** - A word guessing game where the user must guess the capital of a given country, letter by letter.
+[VIDEO LINK LOADING...]
 
 ## 🚀 Purpose of This Repository
 The goal of C-Mastery is to help you develop a deep understanding of C through practical projects and challenges. Whether you are a beginner learning C or an aspiring security researcher exploring memory exploitation, this repository will help you grow your skills.
